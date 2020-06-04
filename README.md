@@ -14,7 +14,6 @@ Advantages:
 4. Gives result in a separate output file which can be referred afterwards. 
 
 Disadvantages:
-1. Voter's vote is visible.
-2. Voters who are in a campus, who are literate can only vote as this program does not display the symbol of the party.
+1. Voters who are in a campus, who are literate can only vote as this program does not display the symbol of the party.
 
 Program code written in vote.c
