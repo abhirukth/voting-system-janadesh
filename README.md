@@ -4,7 +4,7 @@ Voting system in campus
 This is a program which resembles a prototype of voting system.
 It scans number of parties, and its respective party names.
 
-While voting, the program requests for unique voter ID number, scans the voter's vote and adds a count to that respective party.
+While voting, the program requests for unique voter ID number, scans the voter's vote and adds a count to that respective party. And, just like an actual voting system, it rejects the vote voted by voter who had previously voted in that particular voting session. 
 At last it asks for menu, and according to the user's choice it may again proceed for more voting or vote analysis or exit from the program.
 
 Advantages:
